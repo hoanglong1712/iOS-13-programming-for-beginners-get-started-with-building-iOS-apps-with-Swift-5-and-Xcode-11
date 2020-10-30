@@ -1,0 +1,7 @@
+echo "# iOS-13-programming-for-beginners-get-started-with-building-iOS-apps-with-Swift-5-and-Xcode-11" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/hoanglong1712/iOS-13-programming-for-beginners-get-started-with-building-iOS-apps-with-Swift-5-and-Xcode-11.git
+git push -u origin main
